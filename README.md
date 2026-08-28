@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amjad-mm/github-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/amjad-mm/github-solutions/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/amjad-mm/github-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amjad-mm/github-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
