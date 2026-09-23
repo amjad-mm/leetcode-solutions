@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/amjad-mm/github-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/amjad-mm/github-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/amjad-mm/github-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/amjad-mm/github-solutions/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
+| [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amjad-mm/github-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
