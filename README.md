@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amjad-mm/github-solutions/tree/master/0509-fibonacci-number) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/amjad-mm/github-solutions/tree/master/1977-number-of-ways-to-separate-numbers) |
 ## Prefix Sum
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amjad-mm/github-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amjad-mm/github-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/amjad-mm/github-solutions/tree/master/0509-fibonacci-number) |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amjad-mm/github-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
