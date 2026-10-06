@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [0520-detect-capital](https://github.com/amjad-mm/github-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amjad-mm/github-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/amjad-mm/github-solutions/tree/master/0657-robot-return-to-origin) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amjad-mm/github-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amjad-mm/github-solutions/tree/master/0507-perfect-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Matrix
 |  |
