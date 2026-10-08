@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amjad-mm/github-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amjad-mm/github-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/amjad-mm/github-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/amjad-mm/github-solutions/tree/master/0509-fibonacci-number) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amjad-mm/github-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Matrix
 |  |
@@ -104,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amjad-mm/github-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
