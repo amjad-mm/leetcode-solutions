@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/amjad-mm/github-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amjad-mm/github-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/amjad-mm/github-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/amjad-mm/github-solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/amjad-mm/github-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
