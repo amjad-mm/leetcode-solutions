@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/amjad-mm/github-solutions/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/amjad-mm/github-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amjad-mm/github-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/amjad-mm/github-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/amjad-mm/github-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/amjad-mm/github-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amjad-mm/github-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/amjad-mm/github-solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amjad-mm/github-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/amjad-mm/github-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
