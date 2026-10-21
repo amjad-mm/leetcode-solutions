@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/amjad-mm/github-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/amjad-mm/github-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/amjad-mm/github-solutions/tree/master/1816-truncate-sentence) |
+| [1833-maximum-ice-cream-bars](https://github.com/amjad-mm/github-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/amjad-mm/github-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/amjad-mm/github-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/amjad-mm/github-solutions/tree/master/2974-minimum-number-game) |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/amjad-mm/github-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/amjad-mm/github-solutions/tree/master/2706-buy-two-chocolates) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/amjad-mm/github-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
