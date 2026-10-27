@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amjad-mm/github-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/amjad-mm/github-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/amjad-mm/github-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amjad-mm/github-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/amjad-mm/github-solutions/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/amjad-mm/github-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amjad-mm/github-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amjad-mm/github-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amjad-mm/github-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Greedy
 |  |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/amjad-mm/github-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amjad-mm/github-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/amjad-mm/github-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
