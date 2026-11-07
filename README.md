@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amjad-mm/github-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/amjad-mm/github-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/amjad-mm/github-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/amjad-mm/github-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amjad-mm/github-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amjad-mm/github-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amjad-mm/github-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amjad-mm/github-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/amjad-mm/github-solutions/tree/master/0367-valid-perfect-square) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amjad-mm/github-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amjad-mm/github-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
